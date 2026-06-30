@@ -12,7 +12,7 @@ const facts = [
   {
     label: 'Home Lab',
     value: 'Ok I started...',
-    detail: 'Computah activate infinite home lab sequencing with Ollama 1 trillion parameter size, infinite VRAM and harness the power of the sun to its maximum solar capabilities.',
+    detail: 'Computah activate infinite home lab sequencing with Ollama 1 trillion parameter size, limitless VRAM and harness the power of the sun to its maximum solar capabilities.',
   },
   {
     label: 'Side Projects',
